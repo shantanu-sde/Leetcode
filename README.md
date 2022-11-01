@@ -1,9 +1,4 @@
-# Leetcode
-problem number 561 : Array Partition
-->Take i and i++
-  find the mininum element for both put in answer
-  repeat for the another i and i++ while adding and return
-  o(nlogn) 
+
   
   class Solution {
 public:
